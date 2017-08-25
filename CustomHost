@@ -1,4 +1,9 @@
-### facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+## facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+
+# Traceroute and netstat fix
+0.0.0.0 0.0.0.0
+
+# Routed domains
 0.0.0.0 9likesg.com
 0.0.0.0 adexchangeprediction.com
 0.0.0.0 adplexmedia.adk2x.com
